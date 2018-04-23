@@ -229,3 +229,5 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .footer .site-title a:hover { background-color: #ffd25c; color: #174665; }
 .post-title { color: #174665; }
 .site-nav-item a:hover { color: #174665; }
+.post-stub a { color: #174665; }
+.post-date::after { content: ""; border-bottom: none; }

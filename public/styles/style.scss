@@ -933,3 +933,14 @@ VIA CODIGO MODS
     }
   }
 }
+
+.post-stub {
+  a {
+    color: $secondary;
+  }
+}
+
+.post-date::after {
+  content: "";
+  border-bottom: none;
+}
