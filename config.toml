@@ -1,0 +1,57 @@
+baseurl = "https://blog.viacodigo.com/"
+title = "El Blog de Vía Código"
+theme = "ghostwriter"
+languageCode = "es-PE"
+copyright = "Vía Código"
+googleAnalytics = "XXX"
+disqusShortname = "XXX"
+
+[Author]
+    name = "Vía Código"
+    profile = "https://google.com/+XXX"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = true
+    headline = "Vía Código"
+    description = "una descripćión que debe poner medios"
+    github = "https://github.com/Via-Codigo"
+    linkedin = "https://www.linkedin.com/company/via-codigo/"
+    twitter = "https://twitter.com/XXX"
+    facebook = "https://www.facebook.com/viacodigoperu/"
+    
+    email = "info@viacodigo.com"
+    opengraph = true
+    shareTwitter = true
+    shareFacebook = true
+
+    shareLinkedIn = true
+    dateFormat = "Mon, Jan 2, 2006"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Categorías"
+    url = "#"
+    weight = 2
+
+[[menu.main]]
+    name = "Web"
+    url = "https://viacodigo.com/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contacto"
+    url = "https://viacodigo.com/involucrate/"
+    weight = 4
+
