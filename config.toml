@@ -32,6 +32,8 @@ disqusShortname = "XXX"
     highlightJsUrl = ""
     highlightJsLocalUrl = ""
 
+    ErrorMessage404 = "¡Esta página no existe!"
+
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
 
