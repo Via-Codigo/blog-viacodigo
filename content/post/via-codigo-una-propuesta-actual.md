@@ -21,6 +21,10 @@ Les presentamos a continuación con quienes trabajamos, lo innovador de nuestra 
 
 ## Con quiénes trabajamos
 
+![internamiento de Adolescente infractor de México](https://www.eleconomista.com.mx/__export/1516131954033/sites/eleconomista/img/2018/01/16/tutelar_para_menores_acapul.jpg_1348255499.jpg)
+
+<p class="figcaption">Internamiento de Adolescente infractor de México. Fuente: El Economista</p>
+
 El centro de rehabilitación y diagnóstico de Lima alberga a una población aproximada de 900 adolescentes privados de su libertad como medida socioeducativa prevista por un juez que cumple con los lineamientos establecidos por y para el orden social. Adolescentes que también desean y necesitan cambios; ávidos de reconocimiento y abiertos al consejo tanto de rutas como de modelos a seguir. Chicos asustados dado que en su mayoría conocen la pobreza y violencia desde sus primeros contactos con el mundo.
 
 Así un participante del proyecto nos gráfica esta realidad cuando nos dice:
@@ -35,6 +39,10 @@ Nuestra primera promoción la conforma un grupo de 12 alumnos que iniciaron el p
 
 ## Lo innovador
 
+![Gráfica del modelo rizomático](https://proyectointegral1.files.wordpress.com/2012/08/a-04.jpg?w=580&h=446)
+
+<p class="figcaption">Grafica: Modelo rizomatico. Fuente: Proyecto Integral 1</p>
+
 Nuestra estrategia de intervención busca resolver y enseñar a resolver problemas de formas novedosas, tanto por medio de la capacitación académica como del acompañamiento psicológico. El ideal que buscamos es el de observar nuestros patrones, cuestionar nuestras programaciones y decidir nuestros actos.
 
 A nivel psicológico, el programa implica un acompañamiento personal, seguimiento del proceso de aprendizaje y la regulación de la convivencia grupal; haciendo del tiempo compartido por medio del programa (12 horas semanales repartidas en 3 mañanas durante todo un año) una oportunidad para que surjan los conflictos y se creen diversas estrategias de solución que promuevan el desarrollo de habilidades sociales necesarias para el buen vivir y convivir. Además, el acompañamiento se extenderá durante el periodo de reinserción social y laboral por medio de asistencia ambiental especializada.
@@ -46,6 +54,10 @@ Si bien la enseñanza de programación en situaciones de encierro tiene preceden
 El equipo de Vía Código está conformado por profesionales en diversas disciplinas, debido a que la tarea que nos convoca es compleja y requiere ser atendida desde varias aristas de intervención. Para la tarea formativa, además de los educadores (staff de psicólogos y programadores) se suman al equipo programadores internacionales voluntarios con el rol de mentores.
 
 ## Aportes del trabajo con ellos
+
+![rostros con engranajes](https://lamenteesmaravillosa.com/wp-content/uploads/2017/07/rostros-con-engranajes.jpg)
+
+<p class="figcaption">Bidireccionalidad del aprendizaje. Fuente: La mente es maravillosa</p>
 
 En el artículo “La violencia, una mirada de lo vincular a lo social” [\[7\]][7] las autoras psicoanalistas sentencian que la violencia en un atentado contra la libertad, que perturba los aspectos cognitivos, afectivos y volitivos del ser humano; en otras palabras, nuestras formas de pensar, sentir, desear y capacidad de crear. Mientras que el famoso autor, pediatra y psicoanalista, Donald Winnicott(6) concluyó tras años de trabajo e investigación que el acto delincuencial del adolescente es la factura que pasa el niño deprivado a la sociedad; vislumbrando en la rebeldía y el desacato una oportunidad si estas  promueven un cuestionamiento al orden social.
 
