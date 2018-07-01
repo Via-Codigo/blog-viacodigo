@@ -7,19 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-PE</language>
     <copyright>Vía Código</copyright>
-    <lastBuildDate>Mon, 23 Apr 2018 10:54:59 -0500</lastBuildDate>
     
 	<atom:link href="https://blog.viacodigo.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Test Post</title>
-      <link>https://blog.viacodigo.com/2018/04/23/test-post/</link>
-      <pubDate>Mon, 23 Apr 2018 10:54:59 -0500</pubDate>
-      
-      <guid>https://blog.viacodigo.com/2018/04/23/test-post/</guid>
-      <description>Showcase: primeros proyectos de los jóvenes de Maranguita (Quizá podemos poner aquí, para abrir, una galería en la que vayan viéndose imágenes de cada web realizada por los chicos y el link) Ya llevamos varios meses de enseñanza en el Centro Juvenil de Diagnóstico y Rehabilitación de Lima y el trabajo comienza a dar sus frutos. La educación de programación web es, como ya hemos dicho otras veces, como la enseñanza de una nueva lengua, por lo que adquirir un sólido conocimiento de la base es fundamental.</description>
-    </item>
     
   </channel>
 </rss>
