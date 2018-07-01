@@ -3,12 +3,12 @@ title = "El Blog de Vía Código"
 theme = "ghostwriter"
 languageCode = "es-PE"
 copyright = "Vía Código"
-googleAnalytics = "XXX"
-disqusShortname = "XXX"
+googleAnalytics = "UA-56029240-5"
+disqusShortname = "viacodigo-blog"
 
 [Author]
     name = "Vía Código"
-    profile = "https://google.com/+XXX"
+    profile = "https://viacodigo.com"
 
 [Taxonomies]
     tag = "tags"
@@ -19,7 +19,7 @@ disqusShortname = "XXX"
     description = "una descripćión que debe poner medios"
     github = "https://github.com/Via-Codigo"
     linkedin = "https://www.linkedin.com/company/via-codigo/"
-    twitter = "https://twitter.com/XXX"
+    twitter = "https://twitter.com/ViaCodigo"
     facebook = "https://www.facebook.com/viacodigoperu/"
     
     email = "info@viacodigo.com"

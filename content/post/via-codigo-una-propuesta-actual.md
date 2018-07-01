@@ -1,7 +1,7 @@
 ---
 title: "Via Codigo Una Propuesta Actual"
 date: 2018-07-01T18:22:01-05:00
-draft: true
+draft: false
 ---
 
 > El gesto revolucionario es siempre negar lo que hay en nombre de lo que desearíamos que haya. Y parecería que en el núcleo productivo de la subjetividad heroica no sería negar lo que hay en nombre de “lo que debe haber” sino en nombre de lo que puede haber” [\[1\]][1].
