@@ -236,3 +236,5 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .post-date::after { content: ""; border-bottom: none; }
 .post-content b, .post-content strong { color: #174665; }
 .post-content li > p { margin-bottom: 10px; }
+.post-content .figcaption { text-align: center; color: grey; font-size: 12px; }
+.post-content img { width: 100%; max-width: 100%; }

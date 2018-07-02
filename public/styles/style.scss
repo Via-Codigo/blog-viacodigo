@@ -974,7 +974,12 @@ VIA CODIGO MODS
 
   .figcaption {
     text-align: center;
-    color: $ececec;
+    color: grey;
     font-size: 12px;
+  }
+
+  img {
+    width: 100%;
+    max-width: 100%;
   }
 }
