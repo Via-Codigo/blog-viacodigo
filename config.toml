@@ -16,7 +16,7 @@ disqusShortname = "viacodigo-blog"
 [Params]
     intro = true
     headline = "Vía Código"
-    description = "una descripćión que debe poner medios"
+    description = "Programando el futuro"
     github = "https://github.com/Via-Codigo"
     linkedin = "https://www.linkedin.com/company/via-codigo/"
     twitter = "https://twitter.com/ViaCodigo"
