@@ -1,6 +1,6 @@
 ---
 title: "Entrevista al Mentor  Eric"
-date: 2018-08-01T12:04:10-05:00
+date: 2018-08-015T12:04:10-05:00
 draft: true
 ---
 

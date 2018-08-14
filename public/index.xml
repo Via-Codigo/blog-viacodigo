@@ -7,30 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-PE</language>
     <copyright>Vía Código</copyright>
-    <lastBuildDate>Wed, 01 Aug 2018 12:04:10 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 Aug 2018 11:45:47 -0500</lastBuildDate>
     
 	<atom:link href="https://blog.viacodigo.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Entrevista al Mentor  Eric</title>
-      <link>https://blog.viacodigo.com/2018/08/01/mentor-entrevista-eric/</link>
-      <pubDate>Wed, 01 Aug 2018 12:04:10 -0500</pubDate>
-      
-      <guid>https://blog.viacodigo.com/2018/08/01/mentor-entrevista-eric/</guid>
-      <description>El programa de mentores de Vía Código pone en contacto a programadores reconocidos de todo el mundo con los estudiantes de nuestro proyecto. Busca presentar a los estudiantes las puertas que abre el mundo de la programación, y los pone en contacto con profesinales que no los juzgan por su pasado, sino que busca ayudarlos a salir adelante.
-Eric, Software Engineer, Backend Web Development and Data Engineer, New York ¿Cómo crees que la programación Web puede ayudar a los jóvenes de VC a cambiar sus vidas?</description>
-    </item>
-    
-    <item>
-      <title>Entrevista al Mentor  Leonardo</title>
-      <link>https://blog.viacodigo.com/2018/08/01/mentor-entrevista-leonardo/</link>
-      <pubDate>Wed, 01 Aug 2018 12:04:10 -0500</pubDate>
-      
-      <guid>https://blog.viacodigo.com/2018/08/01/mentor-entrevista-leonardo/</guid>
-      <description>El programa de mentores de Vía Código pone en contacto a programadores reconocidos de todo el mundo con los estudiantes de nuestro proyecto. Busca presentar a los estudiantes las puertas que abre el mundo de la programación, y los pone en contacto con profesinales que no los juzgan por su pasado, sino que busca ayudarlos a salir adelante.
-Leonardo, Graduate student, Computer Science, Boston ¿Cómo crees que la programación Web puede ayudar a los jóvenes de VC a cambiar sus vidas?</description>
-    </item>
     
     <item>
       <title>Entrevista al Mentor Gonçalo</title>
@@ -50,15 +30,6 @@ Gonçalo, Front-end Developer at BridgeU y Recurse Center alumnus, London ¿Cóm
       <guid>https://blog.viacodigo.com/2018/07/01/via-codigo-una-propuesta-actual/</guid>
       <description>El gesto revolucionario es siempre negar lo que hay en nombre de lo que desearíamos que haya. Y parecería que en el núcleo productivo de la subjetividad heroica no sería negar lo que hay en nombre de “lo que debe haber” sino en nombre de lo que puede haber” [1]. Elena Aldea
  Hoy, por medio de la pasión que es el fútbol y tras ganarnos la entrada por la puerta grande, volvemos convertidos en competidores mundialistas.</description>
-    </item>
-    
-    <item>
-      <title>Test Post</title>
-      <link>https://blog.viacodigo.com/2018/04/23/test-post/</link>
-      <pubDate>Mon, 23 Apr 2018 10:54:59 -0500</pubDate>
-      
-      <guid>https://blog.viacodigo.com/2018/04/23/test-post/</guid>
-      <description>Showcase: primeros proyectos de los jóvenes de Maranguita (Quizá podemos poner aquí, para abrir, una galería en la que vayan viéndose imágenes de cada web realizada por los chicos y el link) Ya llevamos varios meses de enseñanza en el Centro Juvenil de Diagnóstico y Rehabilitación de Lima y el trabajo comienza a dar sus frutos. La educación de programación web es, como ya hemos dicho otras veces, como la enseñanza de una nueva lengua, por lo que adquirir un sólido conocimiento de la base es fundamental.</description>
     </item>
     
   </channel>

@@ -1,7 +1,7 @@
 ---
 title: "Entrevista al Mentor Gonçalo"
 date: 2018-08-01T11:45:47-05:00
-draft: true
+draft: false
 ---
 
 _El programa de mentores de Vía Código pone en contacto a programadores reconocidos de todo el mundo con los estudiantes de nuestro proyecto.

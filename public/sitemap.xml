@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.viacodigo.com/2018/08/01/mentor-entrevista-eric/</loc>
-    <lastmod>2018-08-01T12:04:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.viacodigo.com/2018/08/01/mentor-entrevista-leonardo/</loc>
-    <lastmod>2018-08-01T12:04:10-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.viacodigo.com/2018/08/01/mentor-entrevista-gon%C3%A7alo/</loc>
     <lastmod>2018-08-01T11:45:47-05:00</lastmod>
   </url>
@@ -23,19 +13,14 @@
   </url>
   
   <url>
-    <loc>https://blog.viacodigo.com/2018/04/23/test-post/</loc>
-    <lastmod>2018-04-23T10:54:59-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.viacodigo.com/</loc>
-    <lastmod>2018-08-01T12:04:10-05:00</lastmod>
+    <lastmod>2018-08-01T11:45:47-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.viacodigo.com/post/</loc>
-    <lastmod>2018-08-01T12:04:10-05:00</lastmod>
+    <lastmod>2018-08-01T11:45:47-05:00</lastmod>
     <priority>0</priority>
   </url>
   
