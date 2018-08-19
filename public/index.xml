@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-PE</language>
     <copyright>Vía Código</copyright>
-    <lastBuildDate>Wed, 01 Aug 2018 11:45:47 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 15 Aug 2018 12:04:10 -0500</lastBuildDate>
     
 	<atom:link href="https://blog.viacodigo.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Entrevista al Mentor  Eric</title>
+      <link>https://blog.viacodigo.com/2018/08/15/mentor-entrevista-eric/</link>
+      <pubDate>Wed, 15 Aug 2018 12:04:10 -0500</pubDate>
+      
+      <guid>https://blog.viacodigo.com/2018/08/15/mentor-entrevista-eric/</guid>
+      <description>El programa de mentores de Vía Código pone en contacto a programadores reconocidos de todo el mundo con los estudiantes de nuestro proyecto. Busca presentar a los estudiantes las puertas que abre el mundo de la programación, y los pone en contacto con profesionales que no los juzgan por su pasado, sino que busca ayudarlos a salir adelante.
+Eric, Software Engineer, Backend Web Development and Data Engineer, New York ¿Cómo crees que la programación Web puede ayudar a los jóvenes de VC a cambiar sus vidas?</description>
+    </item>
     
     <item>
       <title>Entrevista al Mentor Gonçalo</title>

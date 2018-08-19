@@ -1,12 +1,12 @@
 ---
 title: "Entrevista al Mentor  Eric"
-date: 2018-08-015T12:04:10-05:00
-draft: true
+date: 2018-08-15T12:04:10-05:00
+draft: false
 ---
 
 _El programa de mentores de Vía Código pone en contacto a programadores reconocidos de todo el mundo con los estudiantes de nuestro proyecto.
 Busca presentar a los estudiantes las puertas que abre el mundo de la programación, y los pone en contacto con profesionales que no los juzgan por su pasado,
-sino que busca ayudarlos a salir adelante._
+sino que buscan ayudarlos a salir adelante._
 
 ## Eric, Software Engineer, Backend Web Development and Data Engineer, New York
 

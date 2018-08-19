@@ -6,7 +6,7 @@ draft: false
 
 _El programa de mentores de Vía Código pone en contacto a programadores reconocidos de todo el mundo con los estudiantes de nuestro proyecto.
 Busca presentar a los estudiantes las puertas que abre el mundo de la programación, y los pone en contacto con profesionales que no los juzgan por su pasado,
-sino que busca ayudarlos a salir adelante._
+sino que buscan ayudarlos a salir adelante._
 
 ## Gonçalo, Front-end Developer at BridgeU y Recurse Center alumnus, London
 
