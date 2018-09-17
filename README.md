@@ -6,7 +6,9 @@
 
 2.  en la carpeta raíz ejecuta `hugo -D` para construir el site
 
-3.  Ya está
+3.  En la carpeta themes instala el theme ghostwriter haciendo un `git clone git@github.com:jbub/ghostwriter.git`
+
+4.  Ya está
 
 ### Desarrollar
 

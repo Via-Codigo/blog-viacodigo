@@ -1,5 +1,5 @@
 ---
-title: "Antes que programadores somos seres humanos"
+title: "El modelado de género en Vía Código"
 date: 2018-09-16T17:41:05-05:00
 draft: false
 ---
