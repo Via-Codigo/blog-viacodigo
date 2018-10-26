@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.viacodigo.com/2018/09/16/desarrollo-humano/</loc>
+    <lastmod>2018-09-16T17:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.viacodigo.com/2018/08/30/mentor-entrevista-leonardo/</loc>
     <lastmod>2018-08-30T12:04:10-05:00</lastmod>
   </url>
@@ -39,13 +44,13 @@
   
   <url>
     <loc>https://blog.viacodigo.com/</loc>
-    <lastmod>2018-08-30T12:04:10-05:00</lastmod>
+    <lastmod>2018-09-16T17:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.viacodigo.com/post/</loc>
-    <lastmod>2018-08-30T12:04:10-05:00</lastmod>
+    <lastmod>2018-09-16T17:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   

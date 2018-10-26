@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-PE</language>
     <copyright>Vía Código</copyright>
-    <lastBuildDate>Thu, 30 Aug 2018 12:04:10 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 16 Sep 2018 17:41:05 -0500</lastBuildDate>
     
 	<atom:link href="https://blog.viacodigo.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>El modelado de género en Vía Código</title>
+      <link>https://blog.viacodigo.com/2018/09/16/desarrollo-humano/</link>
+      <pubDate>Sun, 16 Sep 2018 17:41:05 -0500</pubDate>
+      
+      <guid>https://blog.viacodigo.com/2018/09/16/desarrollo-humano/</guid>
+      <description>Hablar de violencia de género y de machismo con los adolescentes del CJDRL (Maranguita) es importante. Creemos esto porque los jóvenes, luego de cumplir con su medida socioeducativa, regresarán a insertarse en la sociedad, a esta sociedad machista en la que vivimos y en la cual se comete, diariamente, delitos contra los derechos de las personas. Y mencionamos derechos de las personas y no solo mujeres, porque desde ahí se debe partir: enseñar a los adolescentes a igualar los derechos de ambos géneros y a respetarlos.</description>
+    </item>
     
     <item>
       <title>Entrevista al Mentor  Leonardo</title>

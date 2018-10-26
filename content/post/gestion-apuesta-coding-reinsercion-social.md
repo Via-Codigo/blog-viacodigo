@@ -4,7 +4,7 @@ date: 2018-02-06T12:04:10-05:00
 draft: false
 ---
 
-| Artículo original [Gestión](https://gestion.pe/economia/innovacion-tecnologica-apuesta-coding-reinsercion-social-juvenil-226617)
+_Artículo original [Gestión](https://gestion.pe/economia/innovacion-tecnologica-apuesta-coding-reinsercion-social-juvenil-226617)_
 
 Los centros de reinserción juvenil albergan aproximadamente a mil jóvenes y se gasta un promedio de US$ 1,300 al año por cada interno, quiénes cumplen condenas de entre 3 a 4 años.
 
