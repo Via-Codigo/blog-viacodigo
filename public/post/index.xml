@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-PE</language>
     <copyright>Vía Código</copyright>
-    <lastBuildDate>Wed, 15 Aug 2018 12:04:10 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 30 Aug 2018 12:04:10 -0500</lastBuildDate>
     
 	<atom:link href="https://blog.viacodigo.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Entrevista al Mentor  Leonardo</title>
+      <link>https://blog.viacodigo.com/2018/08/30/mentor-entrevista-leonardo/</link>
+      <pubDate>Thu, 30 Aug 2018 12:04:10 -0500</pubDate>
+      
+      <guid>https://blog.viacodigo.com/2018/08/30/mentor-entrevista-leonardo/</guid>
+      <description>El programa de mentores de Vía Código pone en contacto a programadores reconocidos de todo el mundo con los estudiantes de nuestro proyecto. Busca presentar a los estudiantes las puertas que abre el mundo de la programación, y los pone en contacto con profesionales que no los juzgan por su pasado, sino que buscan ayudarlos a salir adelante.
+Leonardo, Graduate student, Computer Science, Boston ¿Cómo crees que la programación Web puede ayudar a los jóvenes de VC a cambiar sus vidas?</description>
+    </item>
     
     <item>
       <title>Entrevista al Mentor  Eric</title>
@@ -18,7 +28,7 @@
       <pubDate>Wed, 15 Aug 2018 12:04:10 -0500</pubDate>
       
       <guid>https://blog.viacodigo.com/2018/08/15/mentor-entrevista-eric/</guid>
-      <description>El programa de mentores de Vía Código pone en contacto a programadores reconocidos de todo el mundo con los estudiantes de nuestro proyecto. Busca presentar a los estudiantes las puertas que abre el mundo de la programación, y los pone en contacto con profesionales que no los juzgan por su pasado, sino que busca ayudarlos a salir adelante.
+      <description>El programa de mentores de Vía Código pone en contacto a programadores reconocidos de todo el mundo con los estudiantes de nuestro proyecto. Busca presentar a los estudiantes las puertas que abre el mundo de la programación, y los pone en contacto con profesionales que no los juzgan por su pasado, sino que buscan ayudarlos a salir adelante.
 Eric, Software Engineer, Backend Web Development and Data Engineer, New York ¿Cómo crees que la programación Web puede ayudar a los jóvenes de VC a cambiar sus vidas?</description>
     </item>
     
@@ -28,7 +38,7 @@ Eric, Software Engineer, Backend Web Development and Data Engineer, New York ¿C
       <pubDate>Wed, 01 Aug 2018 11:45:47 -0500</pubDate>
       
       <guid>https://blog.viacodigo.com/2018/08/01/mentor-entrevista-gon%C3%A7alo/</guid>
-      <description>El programa de mentores de Vía Código pone en contacto a programadores reconocidos de todo el mundo con los estudiantes de nuestro proyecto. Busca presentar a los estudiantes las puertas que abre el mundo de la programación, y los pone en contacto con profesionales que no los juzgan por su pasado, sino que busca ayudarlos a salir adelante.
+      <description>El programa de mentores de Vía Código pone en contacto a programadores reconocidos de todo el mundo con los estudiantes de nuestro proyecto. Busca presentar a los estudiantes las puertas que abre el mundo de la programación, y los pone en contacto con profesionales que no los juzgan por su pasado, sino que buscan ayudarlos a salir adelante.
 Gonçalo, Front-end Developer at BridgeU y Recurse Center alumnus, London ¿Cómo crees que la programación Web puede ayudar a los jóvenes de VC a cambiar sus vidas?</description>
     </item>
     
@@ -40,6 +50,40 @@ Gonçalo, Front-end Developer at BridgeU y Recurse Center alumnus, London ¿Cóm
       <guid>https://blog.viacodigo.com/2018/07/01/via-codigo-una-propuesta-actual/</guid>
       <description>El gesto revolucionario es siempre negar lo que hay en nombre de lo que desearíamos que haya. Y parecería que en el núcleo productivo de la subjetividad heroica no sería negar lo que hay en nombre de “lo que debe haber” sino en nombre de lo que puede haber” [1]. Elena Aldea
  Hoy, por medio de la pasión que es el fútbol y tras ganarnos la entrada por la puerta grande, volvemos convertidos en competidores mundialistas.</description>
+    </item>
+    
+    <item>
+      <title> Maranguita: Jóvenes reciben una segunda oportunidad gracias a la programación informática [VIDEO]</title>
+      <link>https://blog.viacodigo.com/2018/03/12/trome-maranguita-via-codigo-programa-coding/</link>
+      <pubDate>Mon, 12 Mar 2018 12:04:10 -0500</pubDate>
+      
+      <guid>https://blog.viacodigo.com/2018/03/12/trome-maranguita-via-codigo-programa-coding/</guid>
+      <description>Artículo original Trome
+Vía Código es una organización que enseña a los jóvenes de Maranguita el idioma del &amp;lsquo;coding&amp;rsquo; y les da una herramienta para triunfar al cumplir su condena..
+ </description>
+    </item>
+    
+    <item>
+      <title>Jóvenes en ‘Maranguita’ reciben a diario clases de programación web</title>
+      <link>https://blog.viacodigo.com/2018/02/18/republica-jovenes-maranguita-reciben-diario-clases-programacion-web/</link>
+      <pubDate>Sun, 18 Feb 2018 12:04:10 -0500</pubDate>
+      
+      <guid>https://blog.viacodigo.com/2018/02/18/republica-jovenes-maranguita-reciben-diario-clases-programacion-web/</guid>
+      <description>Artículo original La República
+Reinserción social. Vía Código cuenta con doce internos estudiando programación. Esta labor busca dar una oportunidad a estos muchachos seleccionados.
+No todo está perdido en el Centro Juvenil de Diagnóstico y Rehabilitación de Lima &amp;lsquo;Maranguita&amp;rsquo;, un grupo de doce internos dejan de lado su pasado y se vienen preparando para su futuro. Desde hace varios meses, estos jóvenes en el centro estudian desarrollo web.
+Esta iniciativa lo realiza Vía Código, que brinda oportunidades a los sectores más vulnerables de la sociedad a través de la enseñanza de programación web (coding).</description>
+    </item>
+    
+    <item>
+      <title>Innovación tecnológica: la apuesta por el coding para la reinserción social juvenil</title>
+      <link>https://blog.viacodigo.com/2018/02/06/gestion-apuesta-coding-reinsercion-social/</link>
+      <pubDate>Tue, 06 Feb 2018 12:04:10 -0500</pubDate>
+      
+      <guid>https://blog.viacodigo.com/2018/02/06/gestion-apuesta-coding-reinsercion-social/</guid>
+      <description>| Artículo original Gestión
+Los centros de reinserción juvenil albergan aproximadamente a mil jóvenes y se gasta un promedio de US$ 1,300 al año por cada interno, quiénes cumplen condenas de entre 3 a 4 años.
+La educación es la mejor arma para cambiar el mundo, decía Nelson Mandela, y hoy en día es esencial aplicar dicha filosofía de vida en cualquier contexto. En este caso, el uso del coding o programación web para la reinserción social juvenil.</description>
     </item>
     
   </channel>

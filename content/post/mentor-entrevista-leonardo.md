@@ -1,7 +1,7 @@
 ---
 title: "Entrevista al Mentor  Leonardo"
 date: 2018-08-30T12:04:10-05:00
-draft: true
+draft: false
 ---
 
 _El programa de mentores de Vía Código pone en contacto a programadores reconocidos de todo el mundo con los estudiantes de nuestro proyecto.
