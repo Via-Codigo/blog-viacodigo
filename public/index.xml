@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-PE</language>
     <copyright>Vía Código</copyright>
-    <lastBuildDate>Fri, 26 Oct 2018 12:04:10 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 20 Nov 2018 16:10:35 -0500</lastBuildDate>
     
 	<atom:link href="https://blog.viacodigo.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Entrebista al mentor Roberto</title>
+      <link>https://blog.viacodigo.com/2018/11/20/mentor-entrevista-roberto/</link>
+      <pubDate>Tue, 20 Nov 2018 16:10:35 -0500</pubDate>
+      
+      <guid>https://blog.viacodigo.com/2018/11/20/mentor-entrevista-roberto/</guid>
+      <description>El programa de mentores de Vía Código pone en contacto a programadores reconocidos de todo el mundo con los estudiantes de nuestro proyecto. Busca presentar a los estudiantes las puertas que abre el mundo de la programación, y los pone en contacto con profesionales que no los juzgan por su pasado, sino que buscan ayudarlos a salir adelante.
+Roberto, Nómade Digital, Filosofó/ Fullstack Developer, algun lugar del mundo ¿Cómo crees que la programación Web puede ayudar a los jóvenes de VC a cambiar sus vidas?</description>
+    </item>
     
     <item>
       <title>Entrevista al ViaCoder  Ironman</title>
