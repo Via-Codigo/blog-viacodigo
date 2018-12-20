@@ -6,7 +6,7 @@ draft: false
 
 > Esta es una traducción del [artículo](https://www.transformify.org/blog/whats-hot/via-codigo-lays-down-its-growth-plan-key-alliance-with-transformify-to-empower-the-social-and-labour-reintegration-of-vulnerable) publicado por [Transformify](https://www.transformify.org) sobre nuestra alianza y los planes 2019
 
-Vía Código, una non-profit dedicada a la enseñanza de programación web de alta competencia a adolescentes en centros de reinserción juvenil, se complace en anunciar su plan de crecimiento para el 2019. Gracias a las alianzas concretadas con la Fundación Forge Perú y la plataforma de reclutamiento global Transformify, los adolescentes que pasen por los programas de Vía Código verán ampliadas y diversificadas sus oportunidades laborales en el mercado internacional a través de trabajos remotos. Además, la non-profit realizará por primera vez sus programas de enseñanza de desarrollo web fuera de un centro juvenil.
+Vía Código, una non-profit dedicada a la enseñanza de programación web de alta competencia a adolescentes en centros de reinserción juvenil, se complace en anunciar su plan de crecimiento para el 2019. Gracias a las alianzas concretadas con la [Fundación Forge Perú](http://fondationforge.org) y la plataforma de reclutamiento global [Transformify](https://www.transformify.org), los adolescentes que pasen por los programas de Vía Código verán ampliadas y diversificadas sus oportunidades laborales en el mercado internacional a través de trabajos remotos. Además, la non-profit realizará por primera vez sus programas de enseñanza de desarrollo web fuera de un centro juvenil.
 
 La apuesta de Vía Código es abordar el problema de la criminalidad adolescente en el Perú desde sus orígenes a través de la enseñanza de empleos tecnológicos de alta demanda como herramienta preventiva y de inclusión social para jóvenes en situación de vulnerabilidad. En su primera etapa, la non-profit ha venido desarrollando sus actividades en el el Centro Juvenil de Diagnóstico y Rehabilitación de Lima (CJDRL), conocido coloquialmente como 'Maranguita'. “Hemos trabajado con adolescentes del centro para en primer lugar darles herramientas para insertarse laboralmente y ayudarlos a no reincidir”, señala Pedro Baumann, director ejecutivo de Vía Código.
 
@@ -26,9 +26,9 @@ Las oportunidades que abre esta alianza son muchísimas pues la plataforma cuent
 
 ### El Futuro: Pasar de la reinserción a la Prevención
 
-La non-profit también se prepara este 2019 para trabajar junto con Forge Perú en realizar dos talleres en paralelo, pero ahora fuera del Centro y a modo de piloto con jóvenes en situación de vulnerabilidad que no están privados de libertad.
+La non-profit también se prepara este 2019 para trabajar junto con [Forge Perú](http://fondationforge.org) en realizar dos talleres en paralelo, pero ahora fuera del Centro y a modo de piloto con jóvenes en situación de vulnerabilidad que no están privados de libertad.
 
-En el mediano plazo, la non-profit tiene como meta no solo enseñar programación web sino expandirse a otros rubros de coding. “Estamos negociando una alianza con Area 51, quienes quieren poner profesores de desarrollo de Android, desarrollo de ios, etc. Ellos ya han aceptado titular como programadores a los chicos del centro si pasan un examen”, cuenta Baumann. El objetivo de esta expansión es para el 2021
+En el mediano plazo, la non-profit tiene como meta no solo enseñar programación web sino expandirse a otros rubros de coding. “Estamos negociando una alianza con [Area 51](https://area51.pe), quienes quieren poner profesores de desarrollo de Android, desarrollo de ios, etc. Ellos ya han aceptado titular como programadores a los chicos del centro si pasan un examen”, cuenta Baumann. El objetivo de esta expansión es para el 2021
 
 Vía Código plantea entonces, dos focos en el 2019 para adelante. La reinserción social y laboral de adolescentes criminales privados de libertad y la prevención de esta población vulnerable
 
