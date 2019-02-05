@@ -1,82 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://blog.viacodigo.com/2018/12/20/via-codigo-planes-alianzas-clave-transformify-fundacion-forge-2019/</loc>
-    <lastmod>2018-12-20T07:02:40-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.viacodigo.com/2018/11/30/taller-derechos-digitales-y-violencia-de-genero-en-linea/</loc>
-    <lastmod>2018-11-30T18:40:24-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.viacodigo.com/2018/11/20/mentor-entrevista-roberto/</loc>
-    <lastmod>2018-11-20T16:10:35-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.viacodigo.com/2018/10/26/viacoder-entrevista-ironman/</loc>
-    <lastmod>2018-10-26T12:04:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.viacodigo.com/2018/09/16/desarrollo-humano/</loc>
-    <lastmod>2018-09-16T17:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.viacodigo.com/2018/08/30/mentor-entrevista-leonardo/</loc>
-    <lastmod>2018-08-30T12:04:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.viacodigo.com/2018/08/15/mentor-entrevista-eric/</loc>
-    <lastmod>2018-08-15T12:04:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.viacodigo.com/2018/08/01/mentor-entrevista-gon%C3%A7alo/</loc>
-    <lastmod>2018-08-01T11:45:47-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.viacodigo.com/2018/07/01/via-codigo-una-propuesta-actual/</loc>
-    <lastmod>2018-07-01T18:22:01-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.viacodigo.com/2018/03/12/trome-maranguita-via-codigo-programa-coding/</loc>
-    <lastmod>2018-03-12T12:04:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.viacodigo.com/2018/02/18/republica-jovenes-maranguita-reciben-diario-clases-programacion-web/</loc>
-    <lastmod>2018-02-18T12:04:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.viacodigo.com/2018/02/06/gestion-apuesta-coding-reinsercion-social/</loc>
-    <lastmod>2018-02-06T12:04:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.viacodigo.com/</loc>
-    <lastmod>2018-12-20T07:02:40-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.viacodigo.com/post/</loc>
-    <lastmod>2018-12-20T07:02:40-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.viacodigo.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://blog.viacodigo.com/es/sitemap.xml</loc>
+		
+	   	<lastmod>2018-12-20T07:02:40-05:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://blog.viacodigo.com/en/sitemap.xml</loc>
+		
+	   	<lastmod>2018-07-01T18:22:01-05:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>

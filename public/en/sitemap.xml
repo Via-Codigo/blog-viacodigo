@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog.viacodigo.com/en/2018/07/01/via-codigo-una-propuesta-actual/</loc>
+    <lastmod>2018-07-01T18:22:01-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://blog.viacodigo.com/2018/07/01/via-codigo-una-propuesta-actual/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.viacodigo.com/en/2018/07/01/via-codigo-una-propuesta-actual/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.viacodigo.com/en/</loc>
+    <lastmod>2018-07-01T18:22:01-05:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://blog.viacodigo.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.viacodigo.com/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.viacodigo.com/en/post/</loc>
+    <lastmod>2018-07-01T18:22:01-05:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://blog.viacodigo.com/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.viacodigo.com/en/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.viacodigo.com/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://blog.viacodigo.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.viacodigo.com/en/tags/"
+                />
+  </url>
+  
+</urlset>
