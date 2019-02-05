@@ -1,11 +1,46 @@
 baseurl = "https://blog.viacodigo.com/"
-title = "El Blog de Vía Código"
+
 theme = "ghostwriter"
-languageCode = "es-PE"
+
 copyright = "Vía Código"
 googleAnalytics = "UA-56029240-5"
 disqusShortname = "viacodigo-blog"
 
+DefaultContentLanguage = "es"
+[languages]
+  [languages.es]
+    title = "El Blog de Vía Código"
+    weight = 1
+    [languages.es.params]
+    languageCode = "es-PE"
+    description = "Programando el futuro"
+    ErrorMessage404 = "¡Esta página no existe!"
+   
+    linkedin = "https://linkedin.com/whoever"
+  [languages.en]
+    title = "Blog: Via Codigo"
+    weight = 2
+    [languages.en.params]
+    languageCode = "en-US"
+    description = "Programming the future"
+    ErrorMessage404 = "Page not found!"
+    [[languages.en.menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+    [[languages.en.menu.main]]
+    name = "Web"
+    url = "https://viacodigo.com/"
+    weight = 3
+    [[languages.en.menu.main]]
+    name = "Contact"
+    url = "https://viacodigo.com/involucrate/"
+    weight = 4
+    [[languages.en.menu.main]]
+    name = "Español"
+    url = "https://blog.viacodigo.com/"
+    weight = 5
+   
 [Author]
     name = "Vía Código"
     profile = "https://viacodigo.com"
@@ -16,7 +51,7 @@ disqusShortname = "viacodigo-blog"
 [Params]
     intro = true
     headline = "Vía Código"
-    description = "Programando el futuro"
+    
     github = "https://github.com/Via-Codigo"
     linkedin = "https://www.linkedin.com/company/via-codigo/"
     twitter = "https://twitter.com/ViaCodigo"
@@ -32,7 +67,7 @@ disqusShortname = "viacodigo-blog"
     highlightJsUrl = ""
     highlightJsLocalUrl = ""
 
-    ErrorMessage404 = "¡Esta página no existe!"
+    
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
@@ -56,4 +91,8 @@ disqusShortname = "viacodigo-blog"
     name = "Contacto"
     url = "https://viacodigo.com/involucrate/"
     weight = 4
+[[menu.main]]
+    name = "English"
+    url = "https://blog.viacodigo.com/en/"
+    weight = 5
 
