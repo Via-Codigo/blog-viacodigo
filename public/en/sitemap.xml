@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.viacodigo.com/en/2018/08/15/mentor-entrevista-eric/</loc>
+    <lastmod>2018-08-15T12:04:10-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://blog.viacodigo.com/2018/08/15/mentor-entrevista-eric/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.viacodigo.com/en/2018/08/15/mentor-entrevista-eric/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.viacodigo.com/en/2018/08/01/mentor-entrevista-gon%C3%A7alo/</loc>
+    <lastmod>2018-08-01T11:45:47-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://blog.viacodigo.com/2018/08/01/mentor-entrevista-gon%C3%A7alo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.viacodigo.com/en/2018/08/01/mentor-entrevista-gon%C3%A7alo/"
+                />
+  </url>
+  
+  <url>
     <loc>https://blog.viacodigo.com/en/2018/07/01/via-codigo-una-propuesta-actual/</loc>
     <lastmod>2018-07-01T18:22:01-05:00</lastmod>
     <xhtml:link
@@ -19,7 +49,7 @@
   
   <url>
     <loc>https://blog.viacodigo.com/en/</loc>
-    <lastmod>2018-07-01T18:22:01-05:00</lastmod>
+    <lastmod>2018-08-15T12:04:10-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -35,7 +65,7 @@
   
   <url>
     <loc>https://blog.viacodigo.com/en/post/</loc>
-    <lastmod>2018-07-01T18:22:01-05:00</lastmod>
+    <lastmod>2018-08-15T12:04:10-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

@@ -13,5 +13,13 @@
                 <a href="{{ .Params.profile | default .Site.Author.profile | default " # " }}" itemprop="url" rel="author">{{ .Params.author | default .Site.Author.name }}</a>
             </span>
         </span>
+        {{if $.Params.translator}}
+        <span itemscope="" itemprop="translator" itemtype="https://schema.org/Person">
+            <span itemprop="name">- Traducido por: 
+                <a href="{{ $.Params.translatorLink  }}" target="_blank" itemprop="url" rel="author">{{$.Params.translator}}</a>
+            </span>
+        </span>
+        {{end}}
+
     </p>
 </header>

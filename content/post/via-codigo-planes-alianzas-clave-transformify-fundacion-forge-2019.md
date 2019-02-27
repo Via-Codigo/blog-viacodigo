@@ -1,6 +1,7 @@
 ---
 title: "Via Codigo nos cuenta sus planes para el 2019: Alianzas clave con Transformify y la Fundación Forge para trabajos remoto y capacitaciones preventivas."
 date: 2018-12-20T07:02:40-05:00
+author: Vía Código
 draft: false
 ---
 
