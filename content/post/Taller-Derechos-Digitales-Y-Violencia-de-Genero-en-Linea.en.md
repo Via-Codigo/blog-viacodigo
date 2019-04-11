@@ -2,6 +2,8 @@
 title: "DIGITAL RIGHTS WORKSHOP AND ONLINE GENDER VIOLENCE"
 date: 2018-11-30T18:40:24-05:00
 draft: false
+translator: "Javier Zavala"
+translatorLink: "#"
 ---
 
 > We invited the [Hiperderecho](https://hiperderecho.org)team to talk with the workshop participants about the digital rights and to conduct an experimental workshop on online gender violence. Denisse Albornoz, Research Director, tells us her experience.

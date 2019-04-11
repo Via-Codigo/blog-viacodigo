@@ -2,6 +2,8 @@
 title: "Inteview with Mentor Roberto "
 date: 2018-11-20T16:10:35-05:00
 draft: false
+translator: "Javier Zavala"
+translatorLink: "#"
 ---
 
 _The mentor programme of Via Codigo connects known programmers from all around the world with students of our project. Present the students with options that open them to the world of programming, and put them in contact with professionals that don’t judge them for their past, but seek to help them move forward._
