@@ -1,0 +1,34 @@
+{
+  "ftp://viacodigo.com@blog@viacodigo.com": {
+    ".ftpquota": {
+      "type": "-",
+      "size": 12,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".git": {},
+    ".gitignore": {
+      "type": "-",
+      "size": 33,
+      "lmtime": 0,
+      "modified": false
+    },
+    "README.md": {
+      "type": "-",
+      "size": 756,
+      "lmtime": 0,
+      "modified": false
+    },
+    "archetypes": {},
+    "config.toml": {
+      "type": "-",
+      "size": 1281,
+      "lmtime": 0,
+      "modified": false
+    },
+    "content": {},
+    "public": {},
+    "themes": {}
+  },
+  "$version": 1
+}
