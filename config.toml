@@ -34,7 +34,7 @@ DefaultContentLanguage = "es"
     weight = 3
     [[languages.en.menu.main]]
     name = "Contact"
-    url = "https://viacodigo.com/involucrate/"
+    url = "https://viacodigo.com/involucrate.html"
     weight = 4
     [[languages.en.menu.main]]
     name = "Español"
@@ -89,7 +89,7 @@ DefaultContentLanguage = "es"
 
 [[menu.main]]
     name = "Contacto"
-    url = "https://viacodigo.com/involucrate/"
+    url = "https://viacodigo.com/involucrate.html"
     weight = 4
 [[menu.main]]
     name = "English"

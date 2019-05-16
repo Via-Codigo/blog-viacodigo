@@ -3,6 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.viacodigo.com/</loc>
+    <lastmod>2018-12-20T07:02:40-05:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.viacodigo.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://blog.viacodigo.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.viacodigo.com/post/</loc>
+    <lastmod>2018-12-20T07:02:40-05:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.viacodigo.com/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://blog.viacodigo.com/post/"
+                />
+  </url>
+  
+  <url>
     <loc>https://blog.viacodigo.com/2018/12/20/via-codigo-planes-alianzas-clave-transformify-fundacion-forge-2019/</loc>
     <lastmod>2018-12-20T07:02:40-05:00</lastmod>
   </url>
@@ -110,38 +142,6 @@
   <url>
     <loc>https://blog.viacodigo.com/2018/02/06/gestion-apuesta-coding-reinsercion-social/</loc>
     <lastmod>2018-02-06T12:04:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.viacodigo.com/</loc>
-    <lastmod>2018-12-20T07:02:40-05:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.viacodigo.com/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://blog.viacodigo.com/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://blog.viacodigo.com/post/</loc>
-    <lastmod>2018-12-20T07:02:40-05:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.viacodigo.com/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://blog.viacodigo.com/post/"
-                />
   </url>
   
   <url>
