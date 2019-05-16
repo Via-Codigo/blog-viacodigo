@@ -16,7 +16,7 @@ DefaultContentLanguage = "es"
     description = "Programando el futuro"
     ErrorMessage404 = "¡Esta página no existe!"
    
-    linkedin = "https://linkedin.com/whoever"
+    linkedin = "https://www.linkedin.com/company/via-codigo/"
   [languages.en]
     title = "Blog: Via Codigo"
     weight = 2
