@@ -3,8 +3,6 @@ title: "VÍA CÓDIGO A CURRENT PROPOSAL	"
 date: 2018-07-01T18:22:01-05:00
 draft: false
 slug: "via-codigo-current-proposal"
-translator: "Laura del águila"
-translatorLink: "https://www.linkedin.com/in/laudelaguila/"
 ---
 
 > A revolutionary gesture is to always deny what is instead of what we wish there was. And it might seem that the productive core of heroic subjectivity would not be to deny what is in the name of "what should be" but rather in the name of what might be" [1].
